@@ -1,5 +1,5 @@
 {
   "roller": {
-    "destroy": true
+    "destroy": false
   }
 }
